@@ -127,6 +127,11 @@ To adhere to ethical standards, software engineers can:
 
 By following these practices, software engineers can help ensure that their work aligns with ethical standards and promotes trust, fairness, and integrity in software development.
 
+SOURCES:
+-chat gpt was used for assistennce 
+-the Association for Computing Machinery (ACM) 
+-Institute of Electrical and Electronics Engineers (IEEE)
+
 Submission Guidelines:
 
 
@@ -135,6 +140,5 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 cite any references or sources you use in your answers.
 
-chat gpt was used for assistennce and the
-the Association for Computing Machinery (ACM) and the Institute of Electrical and Electronics Engineers (IEEE)
+
 Submit your completed assignment by [4/06/2024].
